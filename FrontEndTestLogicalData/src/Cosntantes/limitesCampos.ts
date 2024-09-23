@@ -1,0 +1,2 @@
+export const NUMERO_MAXIMO_ENTERO = 2147483647;
+export const EXTENSION_CAMPO_CORTO = 100;
